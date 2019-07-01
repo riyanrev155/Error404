@@ -1,0 +1,1 @@
+gg.alert("Hello.Sorry Guys\nThis Script Expired. I will Update and Upload again Tonight.\nIf you need again You can Subscribe my channel : Revz Project \n\n\nThanks Guys\nRevz Project") 
